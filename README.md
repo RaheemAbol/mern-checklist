@@ -1,2 +1,2 @@
 # mern-checklist
-simple mern-stack checklist
+simple checklist built using the mern-stack 
